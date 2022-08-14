@@ -6,7 +6,7 @@
 Acronyme cours: EEDEV  
 Catégorie: Elaboration du design  
 👨‍🏫 Enseignant: Manuel Schmalstieg  
-Lien: [https://id401.ch/cours-dev2-css/](https://id401.ch/cours-dev2-css/)
+Lien: [https://code.eracom-pedagogique.ch/eedev2-id311/](https://code.eracom-pedagogique.ch/eedev2-id311/)
 
 
 ## Introduction
