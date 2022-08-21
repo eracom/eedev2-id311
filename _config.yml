@@ -6,12 +6,12 @@ lang: fr-FR
 robots: noindex, nofollow
 # menu 
 chapters:
-# - title: Cours Dev 2
-#   url: https://id402.ch/cours-dev2-css/
-# - title: Référence CSS
-#   url: https://cours-web.ch/css/
-# - title: Infos IMD
-#   url: https://eracom.ch/informations-eleves-id/
+ - title: Cours Dev 2
+   url: https://code.eracom-pedagogique.ch/eedev2-id311/
+ - title: Référence CSS
+   url: https://cours-web.ch/css/
+ - title: Infos IMD
+   url: https://eracom.ch/informations-eleves-id/
 # - title: Plan de formation
 #   url: https://code.eracom-pedagogique.ch/formation-imd-2020/   
 # - title: Fontes IMD
@@ -24,4 +24,4 @@ chapters:
 footer_col_1: <ul class="contact-list">
   <li>Eracom, Lausanne</li>
   <li>2022</li></ul>
-footer_col_2: <ul class="social-media-list"><li><a href="https://github.com/eracom/apint-id421">Lien Github</a></li></ul>
+footer_col_2: <ul class="social-media-list"><li><a href="https://github.com/eracom/eedev2-id311">Lien Github</a></li></ul>
