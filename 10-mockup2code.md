@@ -17,14 +17,14 @@ Cet exercice peut être réalisé individuellement, ou en binôme, dans le but d
 
 Les binômes seront déterminés aléatoirement.
 
-## Détails importants
+## Détails importants
 
 - Tout le texte doit être du "vrai texte". Le texte sous forme d'image est proscrit.
 - Utiliser, à chaque fois que cela fait sens, les sept balises HTML sémantiques (`header`, `footer`, `nav`, `section`, `article`, `aside`).
 - Rendre les classes CSS réutilisables, pour éviter la duplication de code.
 - La version mobile n'est pas obligatoire.
 
-Timing:
+**Timing:**
 
 - 30 septembre: choix du mockup, balisage HTML.
 - 14 octobre: base CSS, couleur, typographie.
@@ -33,7 +33,7 @@ Timing:
 - 18 novembre: bloc contenu 2.
 - 25 novembre: finition.
 
-Temps disponible: 12 périodes (9 heures).
+**Temps disponible:** 12 périodes (9 heures).
 
 ## Production à rendre
 
