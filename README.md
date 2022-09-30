@@ -2,10 +2,10 @@
 
 📅 Dates: du 26 août 2022 au 20 janvier 2023  
 ⏰ Horaire: vendredi – 13h30 à 15h15  
-🏫 Classe: ID311  
+Classe: ID311  
 Acronyme cours: EEDEV  
 Catégorie: Elaboration du design  
-👨‍🏫 Enseignant: Manuel Schmalstieg  
+Enseignant: Manuel Schmalstieg  
 Lien: [https://code.eracom-pedagogique.ch/eedev2-id311/](https://code.eracom-pedagogique.ch/eedev2-id311/)
 
 
