@@ -24,7 +24,7 @@ Les binômes seront déterminés aléatoirement.
 - Rendre les classes CSS réutilisables, pour éviter la duplication de code.
 - La version mobile n'est pas obligatoire.
 
-**Timing:**
+**Planification:**
 
 - 30 septembre: choix du mockup, balisage HTML.
 - 14 octobre: base CSS, couleur, typographie.
