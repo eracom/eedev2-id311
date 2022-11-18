@@ -21,7 +21,7 @@ Si Github est utilisé, indiquer:
   - Lien de la Issue
   - Lien du Pull Request
 
- Cas fournis par les élèves:
+## Cas fournis par les élèves
 
 - [résolution barre de navigation](https://www.notion.so/Resolution-probl-me-charline-4b988ceefa4e4c1884d7535dec2fb1ce)
 - Lien Issue: 
