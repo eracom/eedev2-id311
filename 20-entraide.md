@@ -10,9 +10,9 @@ Documenter un cas (*case study*) où vous avez résolu un problème de code pour
 
 À fournir: 
 
-- **Description du problème**. Vous pouvez ajouter une capture d'écran. Qu'est-ce qui ne fonctionne pas? Soyez précis.
-- **Recherche de solution**. Comment avez-vous procédé? Avez-vous trouvé une solution en cherchant sur internet? En demandant à une autre personne? Avez-vous rencontré des "fausses pistes"?
-- **La solution**. Pourquoi et comment corrige-t-elle le problème?
+1. **Description du problème**. Vous pouvez ajouter une capture d'écran. Qu'est-ce qui ne fonctionne pas? Soyez précis.
+2. **Recherche de solution**. Comment avez-vous procédé? Avez-vous trouvé une solution en cherchant sur internet? En demandant à une autre personne? Avez-vous rencontré des "fausses pistes"?
+3. **La solution**. Pourquoi et comment corrige-t-elle le problème?
 
 Réstituer le travail effectué dans un article, à publier sur Notion (utiliser des blocs "Code").
 
@@ -20,6 +20,8 @@ Si Github est utilisé, indiquer:
   
   - Lien de la Issue
   - Lien du Pull Request
+
+[Voir la grille d'évaluation](https://eduvaud.sharepoint.com/:b:/s/ERACOM_ID311_Teams/EZz7bNquPXxNoFrS2OndvakBdIWqVNTFYsgfXjPQ7Pp5SQ?e=sqFiLC)  
 
 ## Cas fournis par les élèves
 
