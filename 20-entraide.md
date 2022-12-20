@@ -21,6 +21,8 @@ Si Github est utilisé, indiquer:
   - Lien de la Issue
   - Lien du Pull Request
 
+### Grille d'évaluation
+
 [Voir la grille d'évaluation](https://eduvaud.sharepoint.com/:b:/s/ERACOM_ID311_Teams/EZz7bNquPXxNoFrS2OndvakBdIWqVNTFYsgfXjPQ7Pp5SQ?e=sqFiLC)  
 
 ## Cas fournis par les élèves

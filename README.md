@@ -29,7 +29,7 @@ Les trois projets suivants feront l'objet d'une évaluation:
 
 2) **Questionnaire** : une évaluation sous forme de questionnaire couvrant les connaissances CSS. Un [questionnaire d'entraînement](https://forms.office.com/Pages/ResponsePage.aspx?id=CLlqkPkEgEq6nIdaNud7wWhMFfhVGJdGpfZSv8KAoIlUNTYxUzY2WTJFRzZWNUxOWTBHMFJPWU5RUi4u) est disponible. Questionnaire de test effectué le 9 décembre. Questionnaire final réalisé le 23 décembre.
 
-3) **[A11Y / Performance]()** : améliorer un projet réalisé dans le cours "Projet interface (site web responsive)", ou un autre projet web réalisé dans un cours précédent. Optimiser l'accessibilité et la performance frontend, dans le but d'obtenir les scores maximum dans les outils de test.
+3) **[A11Y / Performance](a11y.html)** : améliorer un projet réalisé dans le cours "Projet interface (site web responsive)", ou un autre projet web réalisé dans un cours précédent. Optimiser l'accessibilité et la performance frontend, dans le but d'obtenir les scores maximum dans les outils de test.
 
 Un quatrième projet – "entraide" – est laissé à la discrétion des élèves. Si complété, il peut remplacer la note du questionnaire.
 
