@@ -52,3 +52,5 @@ Les éléments indispensables:
 - Qualité, organisation et structure du code.
 - Utilisation des fonctionnalités CSS (flexbox, grid).
 - Gestion du workflow Git.
+
+Voir [la grille d'évaluation](https://eduvaud.sharepoint.com/:x:/s/ERACOM_ID311_Teams/EVM0yqMw_FFArcYlmeY_iB8BzDNEHHjqmLX_CDv42JOSOQ?e=Ha3UL0) (lien Teams)
