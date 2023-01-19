@@ -6,7 +6,8 @@ Classe: ID311
 Acronyme cours: EEDEV  
 Catégorie: Elaboration du design  
 Enseignant: Manuel Schmalstieg  
-Lien: [https://code.eracom-pedagogique.ch/eedev2-id311/](https://code.eracom-pedagogique.ch/eedev2-id311/)
+Lien: [https://code.eracom-pedagogique.ch/eedev2-id311/](https://code.eracom-pedagogique.ch/eedev2-id311/)  
+Github: [https://github.com/eracom-id311](https://github.com/eracom-id311)
 
 
 ## Introduction
