@@ -8,15 +8,17 @@ robots: noindex, nofollow
 chapters:
  - title: Cours Dev 2
    url: https://code.eracom-pedagogique.ch/eedev2-id311/
- - title: Référence CSS
+ - title: Cours Dev 4
+   url: https://eracom-id311.github.io/eedev4/
+ - title: 🠖 Référence CSS
    url: https://cours-web.ch/css/
- - title: Infos IMD
+ - title: 🠖 Infos IMD
    url: https://eracom.ch/informations-eleves-id/
 # - title: Plan de formation
 #   url: https://code.eracom-pedagogique.ch/formation-imd-2020/   
 # - title: Fontes IMD
 #   url: https://code.eracom-pedagogique.ch/fontes-imd/  
- - title: Figma
+ - title: 🠖 Figma
    url: https://www.figma.com/files/team/1010489491753002544
 # - title: 🧠 Podsie
 #   url: https://student.podsie.org/
